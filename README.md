@@ -15,4 +15,4 @@ python app.py
 ```
 
 ## Author
-Created by [Your Name] – Python | Flask | AI | WordPress | Data
+Created by sid – Python | Flask | AI | WordPress | Data
